@@ -4,6 +4,8 @@ This video game was created as an introduction to game development and object-or
 
 Here is a link to play it in browser: https://simmer.io/@kana2001/zombie-runner
 
+<img src ="screenshot.png">
+
 ## Controls
 - Use <i>WASD</i> to move your player
 - Use <i>Shift</i> to run
